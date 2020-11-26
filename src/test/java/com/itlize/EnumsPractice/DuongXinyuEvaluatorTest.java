@@ -1,7 +1,6 @@
 package com.itlize.EnumsPractice;
 import org.junit.Assert;
 import org.junit.Test;
-
 /**
  * Created by yang on 02/03/20.
  */
